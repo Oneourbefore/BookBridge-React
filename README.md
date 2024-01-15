@@ -6,13 +6,11 @@
 
 ### "도서로 사람과 사람을 잇다 "
 
-: 
+: 안쓰는 참고서를 지역사회에 환원하는 교육격차 해소 플랫폼  
 
-<img width="1311" alt="스크린샷 2023-12-20 오후 4 43 52" src="https://github.com/donggukthon/donggukthon_2023_2_B/assets/84909012/4a2e4a54-41ec-4334-8115-7ae3728ebc8c">
+<img width="1232" alt="image" src="https://github.com/Oneourbefore/BookBridge-React/assets/102707496/24fbc865-4f80-4b91-874a-54a2a9322837">
+<img width="1232" alt="image" src="https://github.com/Oneourbefore/BookBridge-React/assets/102707496/e389665b-ea63-4d91-9eef-0fd6aaeedaea">
 
-<img width="1306" alt="스크린샷 2023-12-20 오후 4 42 25" src="https://github.com/donggukthon/donggukthon_2023_2_B/assets/84909012/0ad8d656-e4ea-42f0-a2fc-a7cdb06b518a">
-
-![Uploading image.png…]()
 
 
 
