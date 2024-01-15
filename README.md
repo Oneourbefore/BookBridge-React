@@ -1,4 +1,4 @@
-# donggukthon_2023_2_F
+# google developer student club 연합 해커톤
 
 
 
@@ -34,16 +34,5 @@
 
 
 
-## ERD
-
-<img width="1064" alt="ERDiagram" src="https://github.com/donggukthon/donggukthon_2023_2_B/assets/84909012/4ff70c70-408d-4050-9863-90202a79a9aa">
 
 
-
-
-
-
-
-## Front-end Repository
-
-https://github.com/donggukthon/donggukthon_2023_2_F
