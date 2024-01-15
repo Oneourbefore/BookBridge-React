@@ -12,6 +12,7 @@
 
 <img width="1306" alt="스크린샷 2023-12-20 오후 4 42 25" src="https://github.com/donggukthon/donggukthon_2023_2_B/assets/84909012/0ad8d656-e4ea-42f0-a2fc-a7cdb06b518a">
 
+![Uploading image.png…]()
 
 
 
